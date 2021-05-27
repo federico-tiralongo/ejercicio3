@@ -1,0 +1,17 @@
+.contenedor-formulario {
+    padding: 3%;
+    color: white;
+    font-size: 13px;
+  }
+  
+  .boton{
+    font-size: 13px;
+  }
+  
+  .input-formulario {
+    width: 320px;
+    height: 48px;
+  }
+  .container{
+      background-color: #59a17e;
+  }
